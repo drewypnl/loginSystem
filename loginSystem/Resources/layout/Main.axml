@@ -15,5 +15,7 @@
         android:layout_height="0dp"
         android:textColor="#368DEB"
         android:id="@+id/txtCreateAccount"
-        android:gravity="center" />
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="25sp" />
 </LinearLayout>
