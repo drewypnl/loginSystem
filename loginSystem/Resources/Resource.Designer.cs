@@ -60,6 +60,9 @@ namespace loginSystem
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7f050001
+			public const int btnSignIn = 2131034113;
+			
 			// aapt resource value: 0x7f050000
 			public const int txtCreateAccount = 2131034112;
 			

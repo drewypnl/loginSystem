@@ -18,4 +18,13 @@
         android:gravity="center"
         android:textStyle="bold"
         android:textSize="25sp" />
+    <Button
+        android:text="Sign In"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="15"
+        android:id="@+id/btnSignIn"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:textSize="15sp" />
 </LinearLayout>
